@@ -14,7 +14,9 @@ Responsive design, ensuring the app looks great on both mobile and desktop devic
 **Technologies Used**
 
 **React:** A JavaScript library for building user interfaces.
+
 **Bootstrap 5:** A CSS framework for creating responsive, mobile-first websites.
+
 **OpenWeatherMap API:** A service that provides real-time weather data for any location.
 
 **How It Works**
